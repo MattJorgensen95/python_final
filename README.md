@@ -18,5 +18,5 @@ This is a regression model and scatter plot of the critically endangered species
 This is the total counts of crocodiles each year
 ![](https://github.com/MattJorgensen95/python_final/blob/main/Total.png?raw=true)
 
-This is a graph showing 5 year increments of critically endangered species' observations
+This is a graph showing 5 year increments of critically endangered species' observations (2025 is skewed because it only has a few months of observations)
 ![](https://github.com/MattJorgensen95/python_final/blob/main/FiveYear.png?raw=true)
