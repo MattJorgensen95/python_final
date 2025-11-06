@@ -9,7 +9,7 @@ I used this dataset in a previous project using Excel, but was unable to use the
 
 After completing the project I began to think that the observations might not be indicative of the true populations of crocodiles because they don't seem to follow the patterns I would expect to see when comparing endangered and non-endangered species counts. So while I can't say that this project successfully portrays trends in crocodile populations around the world, it was at least a good exercise in exploring data with Python.
 
-This is the breakdown of conservation status
+This is the breakdown by conservation status (the graph that made me question if this data correlates to true population counts)
 ![](https://github.com/MattJorgensen95/python_final/blob/main/Conservation%20Status%20Counts.png?raw=true)
 
 This is a regression model and scatter plot of the critically endangered species
@@ -18,5 +18,5 @@ This is a regression model and scatter plot of the critically endangered species
 This is the total counts of crocodiles each year
 ![](https://github.com/MattJorgensen95/python_final/blob/main/Total.png?raw=true)
 
-This is a graph showing 5 year increments of observations 
+This is a graph showing 5 year increments of critically endangered species' observations
 ![](https://github.com/MattJorgensen95/python_final/blob/main/FiveYear.png?raw=true)
