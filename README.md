@@ -8,3 +8,5 @@ The dataset I chose is a collection of crocodiles observed in the wild over a pe
 I used this dataset in a previous project using Excel, but was unable to use the observation dates due to a formatting issue with the CSV. So this project seeks to revisit the data with a focus on trends over time.
 
 After completing the project I began to think that the observations might not be indicative of the true populations of crocodiles because they don't seem to follow the patterns I would expect to see when comparing endangered and non-endangered species counts. So while I can't say that this project successfully portrays trends in crocodile populations around the world, it was at least a good exercise in exploring data with Python.
+
+![](https://github.com/MattJorgensen95/python_final/blob/main/Total.png?raw=true)
